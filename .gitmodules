@@ -1,3 +1,6 @@
 [submodule "HitchHiker-backend"]
 	path = HitchHiker-backend
 	url = https://github.com/ivanmatev1/HitchHiker-backend.git
+[submodule "HitchHiker-frontend"]
+	path = HitchHiker-frontend
+	url = https://github.com/ivanmatev1/HitchHiker-frontend.git
